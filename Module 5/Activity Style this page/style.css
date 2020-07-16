@@ -1,0 +1,66 @@
+/* HTML-TAG { CSS-PROPERTY: VALUE } */
+
+html{
+    background-color: white
+}
+
+.redText{
+    color: red;
+}
+
+.blueText{
+    color: blue;
+}
+
+
+.greeText{
+    color: green;
+}
+
+.bigText{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+
+.smallText{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+.CT{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.Important{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.ChngFnt{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-style: italic;
+}
+
+.Combo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: orange;
+}
+
+.styledFont{
+    color: green;
+}
+
+#styledImage{
+    border: 8px solid orange;
+    
+}
+
